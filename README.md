@@ -22,18 +22,18 @@ Access to repository in
 
 ### Linux
 
-Ubuntu and derivatives: `sudo snap install julia -classic`
-Fedora: `sudo dnf install julia`
-Manjaro: `sudo pamac install julia`
-OpenSuse: `sudo zypper in julia`
+- Ubuntu and derivatives: `sudo snap install julia -classic`
+- Fedora: `sudo dnf install julia`
+- Manjaro: `sudo pamac install julia`
+- OpenSuse: `sudo zypper in julia`
 
 ### Windows
  
-For installation on Windows systems, just download from <a href="https://julialang.org/"><img align = "center" alt= "julia-lang" heigth = "50" width="70" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" style="max-width100%;"/></a> the .exe for the system Windows operating system and follow the steps indicated by the app. And then click on the icon on your Desktop and install the libraries. To do so, just type in Julia's terminal: `using Pkg; Pkg.add("Package Name");`
-
+For installation on Windows systems, just download from <a href="https://julialang.org/"><img align = "center" alt= "julia-lang" heigth = "50" width="70" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original-wordmark.svg" style="max-width100%;"/></a> the .exe for the system Windows operating system and follow the steps indicated by the app.
 
 
 ### Packages
+ And then click on the icon on your Desktop and install the libraries. To do so, just type in Julia's terminal: `using Pkg; Pkg.add("Package Name");`
 
 For its use it is necessary to install the following packages:
 <ul>
