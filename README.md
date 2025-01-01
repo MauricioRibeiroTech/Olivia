@@ -9,10 +9,8 @@ For better performance of the created scripts we indicate:
 [![Blog](https://img.shields.io/badge/Python-Download-blue?style=for-the-badge)](https://www.python.org)
 
 
-The Olivia Nonlinear Dynamics Analysis (ONDA) consists of scripts in Julia and Python language for the analysis of non-linear dynamic systems. The scripts that make up the ONDA calculate the Lyapunov Exponents, Bifurcation Diagrams, 01-Test and Basins of attraction, Portrait Phase and Poincare Map, thus forming a diagnosis of the chaotic or periodic behavior of the analyzed nonlinear dynamics system.
-
+The Olivia Nonlinear Dynamics Analysis (ONDA) consists of scripts in Julia and Python language for the analysis of non-linear dynamic systems. The scripts that make up the ONDA calculate the Lyapunov Exponents, Bifurcation Diagrams, 01-Test and Basins of attraction, Portrait Phase and Poincare Map, thus forming a diagnosis of the chaotic or periodic behavior of the analyzed nonlinear dynamics system. The idea is to group and increase the libraries that are used for diagnosing nonlinear dynamic systems, therefore, it is created entirely in an open source system.
 Access to repository in 
-
 
 [![Blog](https://img.shields.io/badge/Repository-Download-red?style=for-the-badge)](https://github.com/ScienceMau/Olivia-Project)
 
